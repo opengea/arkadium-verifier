@@ -1,0 +1,1850 @@
+{
+    "generated_at": "2026-04-30T14:02:42+00:00",
+    "count": 91,
+    "quadrants": [
+        "PLA",
+        "MON",
+        "SUB",
+        "OBJ",
+        "TEO",
+        "PRA",
+        "FEN",
+        "NOU"
+    ],
+    "distribution": {
+        "PLA": 28,
+        "MON": 11,
+        "SUB": 10,
+        "OBJ": 10,
+        "TEO": 10,
+        "PRA": 10,
+        "FEN": 6,
+        "NOU": 6
+    },
+    "entries": [
+        {
+            "id": 82,
+            "label": "MONt1",
+            "nom": "t",
+            "name_en": "t",
+            "tipus": "Mundana",
+            "generacio": 0,
+            "axis": "t",
+            "x": -233,
+            "y": 0,
+            "z": 0,
+            "color": "FF6EA8",
+            "quadrant": "MON",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 83,
+            "label": "MONt2",
+            "nom": "t",
+            "name_en": "t",
+            "tipus": "Mundana",
+            "generacio": 0,
+            "axis": "t",
+            "x": 233,
+            "y": 0,
+            "z": 0,
+            "color": "FF6EA8",
+            "quadrant": "MON",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 84,
+            "label": "MONp1",
+            "nom": "p",
+            "name_en": "p",
+            "tipus": "Mundana",
+            "generacio": 0,
+            "axis": "p",
+            "x": 0,
+            "y": 0,
+            "z": -233,
+            "color": "FF6EA8",
+            "quadrant": "MON",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 85,
+            "label": "MONp2",
+            "nom": "p",
+            "name_en": "p",
+            "tipus": "Mundana",
+            "generacio": 0,
+            "axis": "p",
+            "x": 0,
+            "y": 0,
+            "z": 233,
+            "color": "FF6EA8",
+            "quadrant": "MON",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 86,
+            "label": "MONk1",
+            "nom": "k",
+            "name_en": "k",
+            "tipus": "Mundana",
+            "generacio": 0,
+            "axis": "k",
+            "x": 0,
+            "y": -233,
+            "z": 0,
+            "color": "FF6EA8",
+            "quadrant": "MON",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 87,
+            "label": "MONk2",
+            "nom": "k",
+            "name_en": "k",
+            "tipus": "Mundana",
+            "generacio": 0,
+            "axis": "k",
+            "x": 0,
+            "y": 233,
+            "z": 0,
+            "color": "FF6EA8",
+            "quadrant": "MON",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 88,
+            "label": "MONpt1",
+            "nom": "pt1",
+            "name_en": "pt1",
+            "tipus": "Mundana",
+            "generacio": 0,
+            "axis": "pt1",
+            "x": 165,
+            "y": 0,
+            "z": -165,
+            "color": "FF6EA8",
+            "quadrant": "MON",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 90,
+            "label": "MONpt2",
+            "nom": "pt2",
+            "name_en": "pt2",
+            "tipus": "Mundana",
+            "generacio": 0,
+            "axis": "pt2",
+            "x": -165,
+            "y": 0,
+            "z": 165,
+            "color": "FF6EA8",
+            "quadrant": "MON",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 91,
+            "label": "MONpt3",
+            "nom": "pt3",
+            "name_en": "pt1",
+            "tipus": "Mundana",
+            "generacio": 0,
+            "axis": "pt1",
+            "x": -165,
+            "y": 0,
+            "z": -165,
+            "color": "FF6EA8",
+            "quadrant": "MON",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 92,
+            "label": "MONpt4",
+            "nom": "pt4",
+            "name_en": "pt4",
+            "tipus": "Mundana",
+            "generacio": 0,
+            "axis": "pt4",
+            "x": 165,
+            "y": 0,
+            "z": 165,
+            "color": "FF6EA8",
+            "quadrant": "MON",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 55,
+            "label": "POL",
+            "nom": "Polidesa",
+            "name_en": "Politeness",
+            "tipus": "Mundana",
+            "generacio": 2,
+            "axis": "l",
+            "x": 0,
+            "y": -93,
+            "z": 123,
+            "color": "758841",
+            "quadrant": "FEN",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 56,
+            "label": "PCS",
+            "nom": "Precisió",
+            "name_en": "Precision",
+            "tipus": "Mundana",
+            "generacio": 2,
+            "axis": "f",
+            "x": 0,
+            "y": 93,
+            "z": 123,
+            "color": "14FFB1",
+            "quadrant": "FEN",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 57,
+            "label": "HAR",
+            "nom": "Harmonia",
+            "name_en": "Harmony",
+            "tipus": "Mundana",
+            "generacio": 2,
+            "axis": "l",
+            "x": 0,
+            "y": 93,
+            "z": -123,
+            "color": "5B4FFF",
+            "quadrant": "NOU",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 58,
+            "label": "RGN",
+            "nom": "Regne",
+            "name_en": "Kingdom",
+            "tipus": "Mundana",
+            "generacio": 2,
+            "axis": "f",
+            "x": 0,
+            "y": -93,
+            "z": -123,
+            "color": "A82A72",
+            "quadrant": "NOU",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 59,
+            "label": "DSG",
+            "nom": "Desig",
+            "name_en": "Desire",
+            "tipus": "Mundana",
+            "generacio": 2,
+            "axis": "s",
+            "x": -120,
+            "y": -90,
+            "z": 0,
+            "color": "FFFFFF",
+            "quadrant": "SUB",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 60,
+            "label": "OBL",
+            "nom": "Obligació",
+            "name_en": "Obligation",
+            "tipus": "Mundana",
+            "generacio": 2,
+            "axis": "g",
+            "x": 120,
+            "y": -90,
+            "z": 0,
+            "color": "FFFFFF",
+            "quadrant": "OBJ",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 61,
+            "label": "AST",
+            "nom": "Astúcia",
+            "name_en": "Cunning",
+            "tipus": "Mundana",
+            "generacio": 2,
+            "axis": "g",
+            "x": -120,
+            "y": 90,
+            "z": 0,
+            "color": "FFFFFF",
+            "quadrant": "SUB",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 62,
+            "label": "CNV",
+            "nom": "Convenció",
+            "name_en": "Convention",
+            "tipus": "Mundana",
+            "generacio": 2,
+            "axis": "s",
+            "x": 120,
+            "y": 90,
+            "z": 0,
+            "color": "FFFFFF",
+            "quadrant": "OBJ",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 63,
+            "label": "COS",
+            "nom": "Cosmos",
+            "name_en": "Cosmos",
+            "tipus": "Mundana",
+            "generacio": 2,
+            "axis": "k",
+            "x": 0,
+            "y": -155,
+            "z": 0,
+            "color": "CC0E0E",
+            "quadrant": "PRA",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 64,
+            "label": "COV",
+            "nom": "Cosmovisió",
+            "name_en": "Cosmovision",
+            "tipus": "Mundana",
+            "generacio": 2,
+            "axis": "k",
+            "x": 0,
+            "y": 155,
+            "z": 0,
+            "color": "00A2FF",
+            "quadrant": "TEO",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 65,
+            "label": "EXC",
+            "nom": "Exactitud",
+            "name_en": "Exactness",
+            "tipus": "Mundana",
+            "generacio": 2,
+            "axis": "p",
+            "x": 0,
+            "y": 0,
+            "z": 155,
+            "color": "4BBF47",
+            "quadrant": "FEN",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 66,
+            "label": "CMN",
+            "nom": "Comunió",
+            "name_en": "Communion",
+            "tipus": "Mundana",
+            "generacio": 2,
+            "axis": "p",
+            "x": 0,
+            "y": 0,
+            "z": -155,
+            "color": "8C75FF",
+            "quadrant": "NOU",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 67,
+            "label": "INT",
+            "nom": "Intenció",
+            "name_en": "Intention",
+            "tipus": "Mundana",
+            "generacio": 2,
+            "axis": "t",
+            "x": -155,
+            "y": 0,
+            "z": 0,
+            "color": "FF6EA8",
+            "quadrant": "SUB",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 68,
+            "label": "AFI",
+            "nom": "Afinitat",
+            "name_en": "Affinity",
+            "tipus": "Mundana",
+            "generacio": 2,
+            "axis": "t",
+            "x": 155,
+            "y": 0,
+            "z": 0,
+            "color": "54D2D6",
+            "quadrant": "OBJ",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 69,
+            "label": "FUN",
+            "nom": "Funció",
+            "name_en": "Function",
+            "tipus": "Mundana",
+            "generacio": 2,
+            "axis": "d",
+            "x": 110,
+            "y": 0,
+            "z": 110,
+            "color": "85FFC2",
+            "quadrant": "OBJ",
+            "quadrant_secondary": "FEN"
+        },
+        {
+            "id": 70,
+            "label": "AGU",
+            "nom": "Agudesa",
+            "name_en": "Acuity",
+            "tipus": "Mundana",
+            "generacio": 2,
+            "axis": "b",
+            "x": -110,
+            "y": 0,
+            "z": 110,
+            "color": "85FFC2",
+            "quadrant": "SUB",
+            "quadrant_secondary": "FEN"
+        },
+        {
+            "id": 71,
+            "label": "OGN",
+            "nom": "Òrgan",
+            "name_en": "Organ",
+            "tipus": "Mundana",
+            "generacio": 2,
+            "axis": "b",
+            "x": 110,
+            "y": 0,
+            "z": -110,
+            "color": "7AA2FF",
+            "quadrant": "OBJ",
+            "quadrant_secondary": "NOU"
+        },
+        {
+            "id": 72,
+            "label": "GEN",
+            "nom": "Geni",
+            "name_en": "Genius",
+            "tipus": "Mundana",
+            "generacio": 2,
+            "axis": "d",
+            "x": -110,
+            "y": 0,
+            "z": -110,
+            "color": "8A468C",
+            "quadrant": "SUB",
+            "quadrant_secondary": "NOU"
+        },
+        {
+            "id": 73,
+            "label": "DET",
+            "nom": "Determinació",
+            "name_en": "Determination",
+            "tipus": "Mundana",
+            "generacio": 2,
+            "axis": "m",
+            "x": 85,
+            "y": 95,
+            "z": 85,
+            "color": "14FFB1",
+            "quadrant": "TEO",
+            "quadrant_secondary": "OBJ"
+        },
+        {
+            "id": 74,
+            "label": "ECN",
+            "nom": "Economia",
+            "name_en": "Economy",
+            "tipus": "Mundana",
+            "generacio": 2,
+            "axis": "r",
+            "x": 85,
+            "y": -95,
+            "z": 85,
+            "color": "9FE352",
+            "quadrant": "PRA",
+            "quadrant_secondary": "OBJ"
+        },
+        {
+            "id": 75,
+            "label": "BEL",
+            "nom": "Bellesa",
+            "name_en": "Beauty",
+            "tipus": "Mundana",
+            "generacio": 2,
+            "axis": "n",
+            "x": -85,
+            "y": 95,
+            "z": 85,
+            "color": "14FFB1",
+            "quadrant": "TEO",
+            "quadrant_secondary": "SUB"
+        },
+        {
+            "id": 76,
+            "label": "COM",
+            "nom": "Comunitat",
+            "name_en": "Community",
+            "tipus": "Mundana",
+            "generacio": 2,
+            "axis": "j",
+            "x": -85,
+            "y": -95,
+            "z": 85,
+            "color": "9FE352",
+            "quadrant": "PRA",
+            "quadrant_secondary": "SUB"
+        },
+        {
+            "id": 77,
+            "label": "ECL",
+            "nom": "Ecologia",
+            "name_en": "Ecology",
+            "tipus": "Mundana",
+            "generacio": 2,
+            "axis": "n",
+            "x": 85,
+            "y": -95,
+            "z": -85,
+            "color": "A82A72",
+            "quadrant": "PRA",
+            "quadrant_secondary": "OBJ"
+        },
+        {
+            "id": 78,
+            "label": "ARQ",
+            "nom": "Arquetip",
+            "name_en": "Archetype",
+            "tipus": "Mundana",
+            "generacio": 2,
+            "axis": "j",
+            "x": 85,
+            "y": 95,
+            "z": -85,
+            "color": "5B4FFF",
+            "quadrant": "TEO",
+            "quadrant_secondary": "OBJ"
+        },
+        {
+            "id": 79,
+            "label": "ECU",
+            "nom": "Ecumene",
+            "name_en": "Ecumene",
+            "tipus": "Mundana",
+            "generacio": 2,
+            "axis": "m",
+            "x": -85,
+            "y": -95,
+            "z": -85,
+            "color": "A82A72",
+            "quadrant": "PRA",
+            "quadrant_secondary": "SUB"
+        },
+        {
+            "id": 80,
+            "label": "DIV",
+            "nom": "Divinitat",
+            "name_en": "Divinity",
+            "tipus": "Mundana",
+            "generacio": 2,
+            "axis": "r",
+            "x": -85,
+            "y": 95,
+            "z": -85,
+            "color": "5B4FFF",
+            "quadrant": "TEO",
+            "quadrant_secondary": "SUB"
+        },
+        {
+            "id": 3,
+            "label": "PRA",
+            "nom": "Pràctica",
+            "name_en": "Practice",
+            "tipus": "Neutral",
+            "generacio": 1,
+            "axis": null,
+            "x": 0,
+            "y": -100,
+            "z": 0,
+            "color": "CC0E0E",
+            "quadrant": "PRA",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 4,
+            "label": "TEO",
+            "nom": "Teoria",
+            "name_en": "Theory",
+            "tipus": "Neutral",
+            "generacio": 1,
+            "axis": null,
+            "x": 0,
+            "y": 100,
+            "z": 0,
+            "color": "00A2FF",
+            "quadrant": "TEO",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 5,
+            "label": "FEN",
+            "nom": "Fenomen",
+            "name_en": "Phenomenon",
+            "tipus": "Neutral",
+            "generacio": 1,
+            "axis": null,
+            "x": 0,
+            "y": 0,
+            "z": 100,
+            "color": "4BBF47",
+            "quadrant": "FEN",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 6,
+            "label": "NOU",
+            "nom": "Noümen",
+            "name_en": "Noumenon",
+            "tipus": "Neutral",
+            "generacio": 1,
+            "axis": null,
+            "x": 0,
+            "y": 0,
+            "z": -100,
+            "color": "8C75FF",
+            "quadrant": "NOU",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 7,
+            "label": "SUB",
+            "nom": "Subjecte",
+            "name_en": "Subject",
+            "tipus": "Neutral",
+            "generacio": 1,
+            "axis": null,
+            "x": -100,
+            "y": 0,
+            "z": 0,
+            "color": "FF6EA8",
+            "quadrant": "SUB",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 8,
+            "label": "OBJ",
+            "nom": "Objecte",
+            "name_en": "Object",
+            "tipus": "Neutral",
+            "generacio": 1,
+            "axis": null,
+            "x": 100,
+            "y": 0,
+            "z": 0,
+            "color": "54D2D6",
+            "quadrant": "OBJ",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 9,
+            "label": "EXP",
+            "nom": "Experiència",
+            "name_en": "Experience",
+            "tipus": "Neutral",
+            "generacio": 1.5,
+            "axis": null,
+            "x": 0,
+            "y": -60,
+            "z": 77,
+            "color": "758841",
+            "quadrant": "FEN",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 10,
+            "label": "AMO",
+            "nom": "Amor",
+            "name_en": "Love",
+            "tipus": "Neutral",
+            "generacio": 1.5,
+            "axis": null,
+            "x": 0,
+            "y": -60,
+            "z": -77,
+            "color": "A82A72",
+            "quadrant": "NOU",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 11,
+            "label": "ANA",
+            "nom": "Anàlisi",
+            "name_en": "Analysis",
+            "tipus": "Neutral",
+            "generacio": 1.5,
+            "axis": null,
+            "x": 0,
+            "y": 60,
+            "z": 77,
+            "color": "14FFB1",
+            "quadrant": "FEN",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 12,
+            "label": "SIN",
+            "nom": "Síntesi",
+            "name_en": "Synthesis",
+            "tipus": "Neutral",
+            "generacio": 1.5,
+            "axis": null,
+            "x": 0,
+            "y": 60,
+            "z": -77,
+            "color": "5B4FFF",
+            "quadrant": "NOU",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 13,
+            "label": "SGE",
+            "nom": "Signe",
+            "name_en": "Sign",
+            "tipus": "Neutral",
+            "generacio": 1.5,
+            "axis": null,
+            "x": 80,
+            "y": -60,
+            "z": 0,
+            "color": "FFFFFF",
+            "quadrant": "OBJ",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 14,
+            "label": "STM",
+            "nom": "Sentiment",
+            "name_en": "Feeling",
+            "tipus": "Neutral",
+            "generacio": 1.5,
+            "axis": null,
+            "x": -80,
+            "y": -60,
+            "z": 0,
+            "color": "FFFFFF",
+            "quadrant": "SUB",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 15,
+            "label": "STT",
+            "nom": "Sentit",
+            "name_en": "Sense",
+            "tipus": "Neutral",
+            "generacio": 1.5,
+            "axis": null,
+            "x": -80,
+            "y": 60,
+            "z": 0,
+            "color": "FFFFFF",
+            "quadrant": "SUB",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 16,
+            "label": "SGT",
+            "nom": "Significat",
+            "name_en": "Meaning",
+            "tipus": "Neutral",
+            "generacio": 1.5,
+            "axis": null,
+            "x": 80,
+            "y": 60,
+            "z": 0,
+            "color": "FFFFFF",
+            "quadrant": "OBJ",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 17,
+            "label": "CIE",
+            "nom": "Ciència",
+            "name_en": "Science",
+            "tipus": "Neutral",
+            "generacio": 1.75,
+            "axis": null,
+            "x": 70,
+            "y": 0,
+            "z": 70,
+            "color": "85FFC2",
+            "quadrant": "OBJ",
+            "quadrant_secondary": "FEN"
+        },
+        {
+            "id": 18,
+            "label": "ART",
+            "nom": "Art",
+            "name_en": "Art",
+            "tipus": "Neutral",
+            "generacio": 1.75,
+            "axis": null,
+            "x": -70,
+            "y": 0,
+            "z": 70,
+            "color": "85FFC2",
+            "quadrant": "SUB",
+            "quadrant_secondary": "FEN"
+        },
+        {
+            "id": 19,
+            "label": "MTP",
+            "nom": "Metapsíquica",
+            "name_en": "Metapsychics",
+            "tipus": "Neutral",
+            "generacio": 1.75,
+            "axis": null,
+            "x": -70,
+            "y": 0,
+            "z": -70,
+            "color": "8A468C",
+            "quadrant": "SUB",
+            "quadrant_secondary": "NOU"
+        },
+        {
+            "id": 20,
+            "label": "MTF",
+            "nom": "Metafísica",
+            "name_en": "Metaphysics",
+            "tipus": "Neutral",
+            "generacio": 1.75,
+            "axis": null,
+            "x": 70,
+            "y": 0,
+            "z": -70,
+            "color": "7AA2FF",
+            "quadrant": "OBJ",
+            "quadrant_secondary": "NOU"
+        },
+        {
+            "id": 21,
+            "label": "LOG",
+            "nom": "Lògica",
+            "name_en": "Logic",
+            "tipus": "Neutral",
+            "generacio": 1.75,
+            "axis": null,
+            "x": 55,
+            "y": 60,
+            "z": 55,
+            "color": "14FFB1",
+            "quadrant": "TEO",
+            "quadrant_secondary": "OBJ"
+        },
+        {
+            "id": 22,
+            "label": "TEC",
+            "nom": "Tècnica",
+            "name_en": "Technique",
+            "tipus": "Neutral",
+            "generacio": 1.75,
+            "axis": null,
+            "x": 55,
+            "y": -60,
+            "z": 55,
+            "color": "9FE352",
+            "quadrant": "PRA",
+            "quadrant_secondary": "OBJ"
+        },
+        {
+            "id": 23,
+            "label": "EST",
+            "nom": "Estètica",
+            "name_en": "Aesthetics",
+            "tipus": "Neutral",
+            "generacio": 1.75,
+            "axis": null,
+            "x": -55,
+            "y": 60,
+            "z": 55,
+            "color": "14FFB1",
+            "quadrant": "TEO",
+            "quadrant_secondary": "SUB"
+        },
+        {
+            "id": 24,
+            "label": "PSI",
+            "nom": "Psíquica",
+            "name_en": "Psychic",
+            "tipus": "Neutral",
+            "generacio": 1.75,
+            "axis": null,
+            "x": -55,
+            "y": -60,
+            "z": 55,
+            "color": "9FE352",
+            "quadrant": "PRA",
+            "quadrant_secondary": "SUB"
+        },
+        {
+            "id": 25,
+            "label": "ETI",
+            "nom": "Ètica",
+            "name_en": "Ethics",
+            "tipus": "Neutral",
+            "generacio": 1.75,
+            "axis": null,
+            "x": 55,
+            "y": -60,
+            "z": -55,
+            "color": "A82A72",
+            "quadrant": "PRA",
+            "quadrant_secondary": "OBJ"
+        },
+        {
+            "id": 26,
+            "label": "IDE",
+            "nom": "Idèica",
+            "name_en": "Idea",
+            "tipus": "Neutral",
+            "generacio": 1.75,
+            "axis": null,
+            "x": 55,
+            "y": 60,
+            "z": -55,
+            "color": "5B4FFF",
+            "quadrant": "TEO",
+            "quadrant_secondary": "OBJ"
+        },
+        {
+            "id": 27,
+            "label": "MIS",
+            "nom": "Mística",
+            "name_en": "Mysticism",
+            "tipus": "Neutral",
+            "generacio": 1.75,
+            "axis": null,
+            "x": -55,
+            "y": -60,
+            "z": -55,
+            "color": "A82A72",
+            "quadrant": "PRA",
+            "quadrant_secondary": "SUB"
+        },
+        {
+            "id": 28,
+            "label": "MIT",
+            "nom": "Mítica",
+            "name_en": "Mythic",
+            "tipus": "Neutral",
+            "generacio": 1.75,
+            "axis": null,
+            "x": -55,
+            "y": 60,
+            "z": -55,
+            "color": "5B4FFF",
+            "quadrant": "TEO",
+            "quadrant_secondary": "SUB"
+        },
+        {
+            "id": 1,
+            "label": "PLA",
+            "nom": "Plasma",
+            "name_en": "Plasma",
+            "tipus": "Plasmàtica",
+            "generacio": 0,
+            "axis": null,
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "color": "FFFFFF",
+            "quadrant": "PLA",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 29,
+            "label": "CAS",
+            "nom": "Caos",
+            "name_en": "Chaos",
+            "tipus": "Plasmàtica",
+            "generacio": 0.5,
+            "axis": null,
+            "x": 0,
+            "y": -50,
+            "z": 0,
+            "color": "CC0E0E",
+            "quadrant": "PLA",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 30,
+            "label": "CAV",
+            "nom": "Caovisió",
+            "name_en": "Chaos vision",
+            "tipus": "Plasmàtica",
+            "generacio": 0.5,
+            "axis": null,
+            "x": 0,
+            "y": 50,
+            "z": 0,
+            "color": "00A2FF",
+            "quadrant": "PLA",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 31,
+            "label": "ATZ",
+            "nom": "Atzar",
+            "name_en": "Chance",
+            "tipus": "Plasmàtica",
+            "generacio": 0.5,
+            "axis": null,
+            "x": 0,
+            "y": 0,
+            "z": 50,
+            "color": "4BBF47",
+            "quadrant": "PLA",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 32,
+            "label": "CFN",
+            "nom": "Confinament",
+            "name_en": "Confinement",
+            "tipus": "Plasmàtica",
+            "generacio": 0.5,
+            "axis": null,
+            "x": 0,
+            "y": 0,
+            "z": -50,
+            "color": "8C75FF",
+            "quadrant": "PLA",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 33,
+            "label": "FEL",
+            "nom": "Felicitat",
+            "name_en": "Happiness",
+            "tipus": "Plasmàtica",
+            "generacio": 0.5,
+            "axis": null,
+            "x": -50,
+            "y": 0,
+            "z": 0,
+            "color": "FF6EA8",
+            "quadrant": "PLA",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 34,
+            "label": "BOS",
+            "nom": "Bosó",
+            "name_en": "Boson",
+            "tipus": "Plasmàtica",
+            "generacio": 0.5,
+            "axis": null,
+            "x": 50,
+            "y": 0,
+            "z": 0,
+            "color": "54D2D6",
+            "quadrant": "PLA",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 35,
+            "label": "TRB",
+            "nom": "Turbulència",
+            "name_en": "Turbulence",
+            "tipus": "Plasmàtica",
+            "generacio": 0.5,
+            "axis": null,
+            "x": 0,
+            "y": -30,
+            "z": 40,
+            "color": "758841",
+            "quadrant": "PLA",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 36,
+            "label": "PRB",
+            "nom": "Probabilitat",
+            "name_en": "Probability",
+            "tipus": "Plasmàtica",
+            "generacio": 0.5,
+            "axis": null,
+            "x": 0,
+            "y": 30,
+            "z": 40,
+            "color": "14FFB1",
+            "quadrant": "PLA",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 37,
+            "label": "SLM",
+            "nom": "Sublimitat",
+            "name_en": "Sublimity",
+            "tipus": "Plasmàtica",
+            "generacio": 0.5,
+            "axis": null,
+            "x": 0,
+            "y": 30,
+            "z": -40,
+            "color": "5B4FFF",
+            "quadrant": "PLA",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 38,
+            "label": "MGM",
+            "nom": "Magma",
+            "name_en": "Magma",
+            "tipus": "Plasmàtica",
+            "generacio": 0.5,
+            "axis": null,
+            "x": 0,
+            "y": -30,
+            "z": -40,
+            "color": "A82A72",
+            "quadrant": "PLA",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 39,
+            "label": "EBR",
+            "nom": "Embriaguesa",
+            "name_en": "Inebriation",
+            "tipus": "Plasmàtica",
+            "generacio": 0.5,
+            "axis": null,
+            "x": -38,
+            "y": -29,
+            "z": 0,
+            "color": "FFFFFF",
+            "quadrant": "PLA",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 40,
+            "label": "FOL",
+            "nom": "Follia",
+            "name_en": "Madness",
+            "tipus": "Plasmàtica",
+            "generacio": 0.5,
+            "axis": null,
+            "x": -38,
+            "y": 29,
+            "z": 0,
+            "color": "FFFFFF",
+            "quadrant": "PLA",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 41,
+            "label": "PRD",
+            "nom": "Prodigi",
+            "name_en": "Prodigy",
+            "tipus": "Plasmàtica",
+            "generacio": 0.5,
+            "axis": null,
+            "x": 38,
+            "y": -29,
+            "z": 0,
+            "color": "FFFFFF",
+            "quadrant": "PLA",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 42,
+            "label": "RAR",
+            "nom": "Raresa",
+            "name_en": "Rarity",
+            "tipus": "Plasmàtica",
+            "generacio": 0.5,
+            "axis": null,
+            "x": 38,
+            "y": 29,
+            "z": 0,
+            "color": "FFFFFF",
+            "quadrant": "PLA",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 43,
+            "label": "ONA",
+            "nom": "Ona",
+            "name_en": "Wave",
+            "tipus": "Plasmàtica",
+            "generacio": 0.5,
+            "axis": null,
+            "x": 35,
+            "y": 0,
+            "z": 35,
+            "color": "85FFC2",
+            "quadrant": "PLA",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 44,
+            "label": "TRS",
+            "nom": "Trànsit",
+            "name_en": "Transit",
+            "tipus": "Plasmàtica",
+            "generacio": 0.5,
+            "axis": null,
+            "x": -35,
+            "y": 0,
+            "z": 35,
+            "color": "85FFC2",
+            "quadrant": "PLA",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 45,
+            "label": "ORG",
+            "nom": "Orgó",
+            "name_en": "Orgone",
+            "tipus": "Plasmàtica",
+            "generacio": 0.5,
+            "axis": null,
+            "x": 35,
+            "y": 0,
+            "z": -35,
+            "color": "7AA2FF",
+            "quadrant": "PLA",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 46,
+            "label": "LET",
+            "nom": "Letàrgia",
+            "name_en": "Lethargy",
+            "tipus": "Plasmàtica",
+            "generacio": 0.5,
+            "axis": null,
+            "x": -35,
+            "y": 0,
+            "z": -35,
+            "color": "8A468C",
+            "quadrant": "PLA",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 47,
+            "label": "IDT",
+            "nom": "Indeterminació",
+            "name_en": "Indeterminacy",
+            "tipus": "Plasmàtica",
+            "generacio": 0.5,
+            "axis": null,
+            "x": 27,
+            "y": 30,
+            "z": 27,
+            "color": "14FFB1",
+            "quadrant": "PLA",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 48,
+            "label": "ACC",
+            "nom": "Acció",
+            "name_en": "Action",
+            "tipus": "Plasmàtica",
+            "generacio": 0.5,
+            "axis": null,
+            "x": 27,
+            "y": -30,
+            "z": 27,
+            "color": "9FE352",
+            "quadrant": "PLA",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 49,
+            "label": "GLO",
+            "nom": "Glòria",
+            "name_en": "Glory",
+            "tipus": "Plasmàtica",
+            "generacio": 0.5,
+            "axis": null,
+            "x": -27,
+            "y": 30,
+            "z": 27,
+            "color": "14FFB1",
+            "quadrant": "PLA",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 50,
+            "label": "PAS",
+            "nom": "Passió",
+            "name_en": "Passion",
+            "tipus": "Plasmàtica",
+            "generacio": 0.5,
+            "axis": null,
+            "x": -27,
+            "y": -30,
+            "z": 27,
+            "color": "9FE352",
+            "quadrant": "PLA",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 51,
+            "label": "APE",
+            "nom": "Àpeiron",
+            "name_en": "Apeiron",
+            "tipus": "Plasmàtica",
+            "generacio": 0.5,
+            "axis": null,
+            "x": 27,
+            "y": -30,
+            "z": -27,
+            "color": "A82A72",
+            "quadrant": "PLA",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 52,
+            "label": "ARK",
+            "nom": "Arkhé",
+            "name_en": "Arche",
+            "tipus": "Plasmàtica",
+            "generacio": 0.5,
+            "axis": null,
+            "x": 27,
+            "y": 30,
+            "z": -27,
+            "color": "5B4FFF",
+            "quadrant": "PLA",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 53,
+            "label": "AKA",
+            "nom": "Akaixa",
+            "name_en": "Akasha",
+            "tipus": "Plasmàtica",
+            "generacio": 0.5,
+            "axis": null,
+            "x": -27,
+            "y": -30,
+            "z": -27,
+            "color": "A82A72",
+            "quadrant": "PLA",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 54,
+            "label": "TIA",
+            "nom": "Tiàmat",
+            "name_en": "Tiamat",
+            "tipus": "Plasmàtica",
+            "generacio": 0.5,
+            "axis": null,
+            "x": -27,
+            "y": 30,
+            "z": -27,
+            "color": "5B4FFF",
+            "quadrant": "PLA",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 93,
+            "label": "AZO",
+            "nom": "Azo",
+            "name_en": "cc",
+            "tipus": "Plasmàtica",
+            "generacio": 0.5,
+            "axis": "",
+            "x": 18,
+            "y": 0,
+            "z": 43,
+            "color": "85FFC2",
+            "quadrant": "PLA",
+            "quadrant_secondary": null
+        },
+        {
+            "id": 0,
+            "label": "MON",
+            "nom": "Món",
+            "name_en": "World",
+            "tipus": "Synthetic",
+            "generacio": null,
+            "axis": null,
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "color": "",
+            "quadrant": "MON",
+            "quadrant_secondary": null
+        }
+    ],
+    "whitelist": {
+        "MONt1": "MON",
+        "MONt2": "MON",
+        "MONp1": "MON",
+        "MONp2": "MON",
+        "MONk1": "MON",
+        "MONk2": "MON",
+        "MONpt1": "MON",
+        "MONpt2": "MON",
+        "MONpt3": "MON",
+        "MONpt4": "MON",
+        "POL": "FEN",
+        "PCS": "FEN",
+        "HAR": "NOU",
+        "RGN": "NOU",
+        "DSG": "SUB",
+        "OBL": "OBJ",
+        "AST": "SUB",
+        "CNV": "OBJ",
+        "COS": "PRA",
+        "COV": "TEO",
+        "EXC": "FEN",
+        "CMN": "NOU",
+        "INT": "SUB",
+        "AFI": "OBJ",
+        "FUN": "OBJ",
+        "AGU": "SUB",
+        "OGN": "OBJ",
+        "GEN": "SUB",
+        "DET": "TEO",
+        "ECN": "PRA",
+        "BEL": "TEO",
+        "COM": "PRA",
+        "ECL": "PRA",
+        "ARQ": "TEO",
+        "ECU": "PRA",
+        "DIV": "TEO",
+        "PRA": "PRA",
+        "TEO": "TEO",
+        "FEN": "FEN",
+        "NOU": "NOU",
+        "SUB": "SUB",
+        "OBJ": "OBJ",
+        "EXP": "FEN",
+        "AMO": "NOU",
+        "ANA": "FEN",
+        "SIN": "NOU",
+        "SGE": "OBJ",
+        "STM": "SUB",
+        "STT": "SUB",
+        "SGT": "OBJ",
+        "CIE": "OBJ",
+        "ART": "SUB",
+        "MTP": "SUB",
+        "MTF": "OBJ",
+        "LOG": "TEO",
+        "TEC": "PRA",
+        "EST": "TEO",
+        "PSI": "PRA",
+        "ETI": "PRA",
+        "IDE": "TEO",
+        "MIS": "PRA",
+        "MIT": "TEO",
+        "PLA": "PLA",
+        "CAS": "PLA",
+        "CAV": "PLA",
+        "ATZ": "PLA",
+        "CFN": "PLA",
+        "FEL": "PLA",
+        "BOS": "PLA",
+        "TRB": "PLA",
+        "PRB": "PLA",
+        "SLM": "PLA",
+        "MGM": "PLA",
+        "EBR": "PLA",
+        "FOL": "PLA",
+        "PRD": "PLA",
+        "RAR": "PLA",
+        "ONA": "PLA",
+        "TRS": "PLA",
+        "ORG": "PLA",
+        "LET": "PLA",
+        "IDT": "PLA",
+        "ACC": "PLA",
+        "GLO": "PLA",
+        "PAS": "PLA",
+        "APE": "PLA",
+        "ARK": "PLA",
+        "AKA": "PLA",
+        "TIA": "PLA",
+        "AZO": "PLA",
+        "MON": "MON"
+    },
+    "whitelist_full": {
+        "MONt1": {
+            "primary": "MON",
+            "secondary": null
+        },
+        "MONt2": {
+            "primary": "MON",
+            "secondary": null
+        },
+        "MONp1": {
+            "primary": "MON",
+            "secondary": null
+        },
+        "MONp2": {
+            "primary": "MON",
+            "secondary": null
+        },
+        "MONk1": {
+            "primary": "MON",
+            "secondary": null
+        },
+        "MONk2": {
+            "primary": "MON",
+            "secondary": null
+        },
+        "MONpt1": {
+            "primary": "MON",
+            "secondary": null
+        },
+        "MONpt2": {
+            "primary": "MON",
+            "secondary": null
+        },
+        "MONpt3": {
+            "primary": "MON",
+            "secondary": null
+        },
+        "MONpt4": {
+            "primary": "MON",
+            "secondary": null
+        },
+        "POL": {
+            "primary": "FEN",
+            "secondary": null
+        },
+        "PCS": {
+            "primary": "FEN",
+            "secondary": null
+        },
+        "HAR": {
+            "primary": "NOU",
+            "secondary": null
+        },
+        "RGN": {
+            "primary": "NOU",
+            "secondary": null
+        },
+        "DSG": {
+            "primary": "SUB",
+            "secondary": null
+        },
+        "OBL": {
+            "primary": "OBJ",
+            "secondary": null
+        },
+        "AST": {
+            "primary": "SUB",
+            "secondary": null
+        },
+        "CNV": {
+            "primary": "OBJ",
+            "secondary": null
+        },
+        "COS": {
+            "primary": "PRA",
+            "secondary": null
+        },
+        "COV": {
+            "primary": "TEO",
+            "secondary": null
+        },
+        "EXC": {
+            "primary": "FEN",
+            "secondary": null
+        },
+        "CMN": {
+            "primary": "NOU",
+            "secondary": null
+        },
+        "INT": {
+            "primary": "SUB",
+            "secondary": null
+        },
+        "AFI": {
+            "primary": "OBJ",
+            "secondary": null
+        },
+        "FUN": {
+            "primary": "OBJ",
+            "secondary": "FEN"
+        },
+        "AGU": {
+            "primary": "SUB",
+            "secondary": "FEN"
+        },
+        "OGN": {
+            "primary": "OBJ",
+            "secondary": "NOU"
+        },
+        "GEN": {
+            "primary": "SUB",
+            "secondary": "NOU"
+        },
+        "DET": {
+            "primary": "TEO",
+            "secondary": "OBJ"
+        },
+        "ECN": {
+            "primary": "PRA",
+            "secondary": "OBJ"
+        },
+        "BEL": {
+            "primary": "TEO",
+            "secondary": "SUB"
+        },
+        "COM": {
+            "primary": "PRA",
+            "secondary": "SUB"
+        },
+        "ECL": {
+            "primary": "PRA",
+            "secondary": "OBJ"
+        },
+        "ARQ": {
+            "primary": "TEO",
+            "secondary": "OBJ"
+        },
+        "ECU": {
+            "primary": "PRA",
+            "secondary": "SUB"
+        },
+        "DIV": {
+            "primary": "TEO",
+            "secondary": "SUB"
+        },
+        "PRA": {
+            "primary": "PRA",
+            "secondary": null
+        },
+        "TEO": {
+            "primary": "TEO",
+            "secondary": null
+        },
+        "FEN": {
+            "primary": "FEN",
+            "secondary": null
+        },
+        "NOU": {
+            "primary": "NOU",
+            "secondary": null
+        },
+        "SUB": {
+            "primary": "SUB",
+            "secondary": null
+        },
+        "OBJ": {
+            "primary": "OBJ",
+            "secondary": null
+        },
+        "EXP": {
+            "primary": "FEN",
+            "secondary": null
+        },
+        "AMO": {
+            "primary": "NOU",
+            "secondary": null
+        },
+        "ANA": {
+            "primary": "FEN",
+            "secondary": null
+        },
+        "SIN": {
+            "primary": "NOU",
+            "secondary": null
+        },
+        "SGE": {
+            "primary": "OBJ",
+            "secondary": null
+        },
+        "STM": {
+            "primary": "SUB",
+            "secondary": null
+        },
+        "STT": {
+            "primary": "SUB",
+            "secondary": null
+        },
+        "SGT": {
+            "primary": "OBJ",
+            "secondary": null
+        },
+        "CIE": {
+            "primary": "OBJ",
+            "secondary": "FEN"
+        },
+        "ART": {
+            "primary": "SUB",
+            "secondary": "FEN"
+        },
+        "MTP": {
+            "primary": "SUB",
+            "secondary": "NOU"
+        },
+        "MTF": {
+            "primary": "OBJ",
+            "secondary": "NOU"
+        },
+        "LOG": {
+            "primary": "TEO",
+            "secondary": "OBJ"
+        },
+        "TEC": {
+            "primary": "PRA",
+            "secondary": "OBJ"
+        },
+        "EST": {
+            "primary": "TEO",
+            "secondary": "SUB"
+        },
+        "PSI": {
+            "primary": "PRA",
+            "secondary": "SUB"
+        },
+        "ETI": {
+            "primary": "PRA",
+            "secondary": "OBJ"
+        },
+        "IDE": {
+            "primary": "TEO",
+            "secondary": "OBJ"
+        },
+        "MIS": {
+            "primary": "PRA",
+            "secondary": "SUB"
+        },
+        "MIT": {
+            "primary": "TEO",
+            "secondary": "SUB"
+        },
+        "PLA": {
+            "primary": "PLA",
+            "secondary": null
+        },
+        "CAS": {
+            "primary": "PLA",
+            "secondary": null
+        },
+        "CAV": {
+            "primary": "PLA",
+            "secondary": null
+        },
+        "ATZ": {
+            "primary": "PLA",
+            "secondary": null
+        },
+        "CFN": {
+            "primary": "PLA",
+            "secondary": null
+        },
+        "FEL": {
+            "primary": "PLA",
+            "secondary": null
+        },
+        "BOS": {
+            "primary": "PLA",
+            "secondary": null
+        },
+        "TRB": {
+            "primary": "PLA",
+            "secondary": null
+        },
+        "PRB": {
+            "primary": "PLA",
+            "secondary": null
+        },
+        "SLM": {
+            "primary": "PLA",
+            "secondary": null
+        },
+        "MGM": {
+            "primary": "PLA",
+            "secondary": null
+        },
+        "EBR": {
+            "primary": "PLA",
+            "secondary": null
+        },
+        "FOL": {
+            "primary": "PLA",
+            "secondary": null
+        },
+        "PRD": {
+            "primary": "PLA",
+            "secondary": null
+        },
+        "RAR": {
+            "primary": "PLA",
+            "secondary": null
+        },
+        "ONA": {
+            "primary": "PLA",
+            "secondary": null
+        },
+        "TRS": {
+            "primary": "PLA",
+            "secondary": null
+        },
+        "ORG": {
+            "primary": "PLA",
+            "secondary": null
+        },
+        "LET": {
+            "primary": "PLA",
+            "secondary": null
+        },
+        "IDT": {
+            "primary": "PLA",
+            "secondary": null
+        },
+        "ACC": {
+            "primary": "PLA",
+            "secondary": null
+        },
+        "GLO": {
+            "primary": "PLA",
+            "secondary": null
+        },
+        "PAS": {
+            "primary": "PLA",
+            "secondary": null
+        },
+        "APE": {
+            "primary": "PLA",
+            "secondary": null
+        },
+        "ARK": {
+            "primary": "PLA",
+            "secondary": null
+        },
+        "AKA": {
+            "primary": "PLA",
+            "secondary": null
+        },
+        "TIA": {
+            "primary": "PLA",
+            "secondary": null
+        },
+        "AZO": {
+            "primary": "PLA",
+            "secondary": null
+        },
+        "MON": {
+            "primary": "MON",
+            "secondary": null
+        }
+    }
+}

@@ -1,0 +1,7 @@
+The 30 km/h citywide speed limit has gained traction across European cities — Brussels, Paris, Bilbao, Helsinki — and the safety case is strong. World Health Organization data show that the probability of pedestrian fatality in a collision drops from roughly 50% at 50 km/h to about 10% at 30 km/h, driven by the non-linear relationship between vehicle speed and impact energy.
+
+Implementation, however, requires more than changing signs. Cities that have succeeded combined the limit with physical interventions — narrower lanes, raised crossings, traffic calming — because drivers tend to drive at the speed the road environment encourages, not what signs prescribe. Studies show enforcement-by-camera works better than discretionary policing.
+
+The economic argument is mixed. Business associations often cite reduced delivery efficiency; municipal governments cite lower healthcare costs from fewer injuries and improved livability. Surveys after implementation tend to show rising approval over time as residents experience the change.
+
+Overall, the evidence supports adoption with complementary infrastructure, though local context matters — a dense historic center differs from a sprawling suburb.

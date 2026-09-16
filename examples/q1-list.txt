@@ -1,0 +1,25 @@
+**FEN — Phenomenon.** Across European cities adopting the limit — Brussels, Paris, Bilbao, Helsinki — observable phenomena are changing: crash counts, ambulance response, ambient noise, street-life density.
+
+**ANA — Analysis (FEN→TEO).** WHO statistics: pedestrian fatality probability drops from ~50% at 50 km/h to ~10% at 30 km/h, a non-linear gradient driven by kinetic energy ∝ v². Implementation cost scales with infrastructure depth.
+
+**OBJ — Objective measures.** Standardized OBJ indicators that any reviewer can verify: collision counts per 100,000 inhabitants, ambient decibel levels at curbside, mean travel time on representative routes, modal-split percentages. The CIE (scientific) literature offers comparable cross-city datasets through OECD and ETSC.
+
+**TEO — Theory.** Three frames compete. Public-health utilitarianism prioritizes aggregate harm reduction. Libertarian-mobility frames the limit as paternalistic restriction. Relational urbanism — a third position — treats streets as commons whose primary function is human dwelling.
+
+**SIN — Synthesis (TEO→NOU).** These frames are reconcilable. The relational frame subsumes the utilitarian (lives saved are dwelling preserved) and addresses the libertarian by noting that walking and cycling — the dominant mobility for those without cars — is expanded, not restricted, by 30 km/h.
+
+**NOU — Noumenon.** The decision rests on a normative question rarely surfaced: what is a city *for*? If primarily for moving cars between points, 50 km/h is reasonable. If primarily for human life — children, elderly, cyclists — 30 km/h aligns structurally with that purpose. The data does not answer this; the answer lies in the telos one assigns to urban space.
+
+**SUB — Subjective.** From the resident's lived experience, streets at 30 km/h feel qualitatively different: ambient anxiety drops, conversation in the public realm becomes possible, children play unsupervised. Drivers report initial frustration that converts to acceptance over a 3-6 month window — a known psychological adaptation pattern.
+
+**AMO — Care (NOU→PRA).** The choice is one of urban care: who the city protects, and how it expresses that protection in built form. Prioritizing those most vulnerable to vehicular harm — the elderly, the child, the cyclist — is an act of structural care made permanent through the speed regime.
+
+**PRA — Practice.** Implementation works best as a phased rollout: physical interventions (narrowed lanes, raised intersections) preceding signage; communication framed in terms of children and elderly; enforcement through automated cameras rather than discretionary policing.
+
+**EXP — Experience (PRA→FEN).** Twelve-month post-implementation surveys consistently show approval rises above pre-implementation levels in cities that pair the limit with infrastructure. The experiential gain — slower, quieter, more walkable streets — exceeds the abstract loss of vehicular speed.
+
+**MON — World.** Concretely: in Bilbao (first major Spanish city to adopt citywide 30 km/h in 2020), pedestrian fatalities dropped ~50% within two years. In Helsinki, traffic deaths reached zero in 2019. In Paris, after 2021 adoption, severe injury counts fell similarly. The empirical record across MON contexts is consistent.
+
+**PLA — Potential.** The proposal contains a latent transformation potential: a city is being structurally re-oriented from a flow-machine to a dwelling-fabric. This is not yet manifest at 30 km/h alone — it is the *beginning* of a longer phase of urban re-grounding. The PLA limit is a portal, not an end-state.
+
+**Recommendation.** Adopt citywide 30 km/h with 12-month phased physical implementation, cameras for enforcement, reassessment at 24 months. Structural completeness across FEN, ANA, OBJ, TEO, SIN, NOU, SUB, AMO, PRA, EXP, MON, PLA reflects that the question is genuinely a multi-axis one.

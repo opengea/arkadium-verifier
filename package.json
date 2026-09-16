@@ -1,0 +1,13 @@
+{
+  "name": "arkadium-verifier",
+  "version": "1.0.0",
+  "description": "Structural verifier of the Arkadium project: harmonic completeness (H) and lexical wisdom score (W) of a text over the eight poles of the Meta-Globàlium. Pure code, no model, no API key.",
+  "license": "Apache-2.0",
+  "author": "Jordi Berenguer Rodrigo (Opengea SCCL)",
+  "homepage": "https://arkadium.ai",
+  "bin": { "arkadium-verify": "bin/arkadium-verify.js" },
+  "main": "js/wisdom.js",
+  "scripts": { "test": "node test/run.js && php test/run.php" },
+  "engines": { "node": ">=14" },
+  "files": ["bin", "js", "php", "examples", "test", "README.md", "LICENSE", "NOTICE", "CHANGELOG.md"]
+}

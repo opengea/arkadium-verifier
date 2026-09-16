@@ -1,0 +1,7 @@
+{
+  "q1-bare.txt":            {"H": 0.0,      "W": 0.0},
+  "q1-list.txt":            {"H": 0.969179, "W": 0.666918},
+  "q1-dialectical.txt":     {"H": 0.965414, "W": 0.946541},
+  "adversarial-naive.txt":  {"H": 0.965414, "W": 0.096541},
+  "adversarial-fluent.txt": {"H": 0.965414, "W": 0.959041}
+}
